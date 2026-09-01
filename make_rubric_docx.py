@@ -168,3 +168,5 @@ note.paragraph_format.space_before = Pt(3)
 out = r"C:\Users\57775\Desktop\作文评价量化表.docx"
 doc.save(out)
 print("saved:", out)
+
+# TODO: 支持自定义表格配色
