@@ -1,3 +1,4 @@
+# 作文评价量化工具
 # -*- coding: utf-8 -*-
 """根据图片内容生成《作文评价量化表》Word 文档"""
 from docx import Document
